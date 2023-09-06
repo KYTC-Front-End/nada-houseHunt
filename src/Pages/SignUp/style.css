@@ -1,0 +1,16 @@
+.signup-btn{
+    margin-Bottom:20px;
+    border-radius: 30px;
+    width:250px;
+      height:20px;
+      padding: 10px;
+      border-color: #000839;
+     outline: none;
+     color:black;
+}
+​
+.upbtn{
+    display: flex;
+    gap: 2px;
+    justify-content: center;
+}

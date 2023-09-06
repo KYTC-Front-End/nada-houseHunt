@@ -1,0 +1,12 @@
+.grid-card{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    align-items: center;
+    justify-items: center;
+}
+
+.text-recently{
+    text-decoration: underline;
+    margin-left: 10px;
+}
